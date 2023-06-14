@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Go and ReactJs  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to technologies  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
